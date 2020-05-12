@@ -9,27 +9,27 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---node-modules-gatsby-plugin-offline-app-shell-js-7980208c0de083e75dc3.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-3ec7821a6579c6fcfeca.js
+/webpack-runtime-6179e3502557cad9757e.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-f7f9b643de0d3b0e5da1.js
   Cache-Control: public, max-age=31536000, immutable
-/app-b6a684fdbf6ffe8e7374.js
+/app-97d5f2ee0d2bfa05394c.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/
-  Link: </webpack-runtime-3ec7821a6579c6fcfeca.js>; rel=preload; as=script
-  Link: </framework-f7f9b643de0d3b0e5da1.js>; rel=preload; as=script
-  Link: </app-b6a684fdbf6ffe8e7374.js>; rel=preload; as=script
-  Link: </component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-647cc00aa6ddda8f3aa8.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
-/offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-3ec7821a6579c6fcfeca.js>; rel=preload; as=script
-  Link: </framework-f7f9b643de0d3b0e5da1.js>; rel=preload; as=script
-  Link: </app-b6a684fdbf6ffe8e7374.js>; rel=preload; as=script
-  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-7980208c0de083e75dc3.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/
+  Link: </portfolio/webpack-runtime-6179e3502557cad9757e.js>; rel=preload; as=script
+  Link: </portfolio/framework-f7f9b643de0d3b0e5da1.js>; rel=preload; as=script
+  Link: </portfolio/app-97d5f2ee0d2bfa05394c.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-lekoarts-gatsby-theme-cara-src-templates-cara-tsx-647cc00aa6ddda8f3aa8.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/portfolio/offline-plugin-app-shell-fallback/
+  Link: </portfolio/webpack-runtime-6179e3502557cad9757e.js>; rel=preload; as=script
+  Link: </portfolio/framework-f7f9b643de0d3b0e5da1.js>; rel=preload; as=script
+  Link: </portfolio/app-97d5f2ee0d2bfa05394c.js>; rel=preload; as=script
+  Link: </portfolio/component---node-modules-gatsby-plugin-offline-app-shell-js-7980208c0de083e75dc3.js>; rel=preload; as=script
+  Link: </portfolio/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </portfolio/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
